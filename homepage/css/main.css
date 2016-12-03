@@ -1,0 +1,43 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+}
+
+body:after {
+  height: 100%;
+  width: 100%;
+  content: ' ';
+  background: black;
+  opacity: 0.5;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.container {
+  z-index: 5;
+  position: relative;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
