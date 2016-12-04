@@ -53,6 +53,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title></title>
         <meta name="description" content="">
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css">
         <link rel="stylesheet" href="//cdn.jsdelivr.net/animatecss/3.5.1/animate.min.css">
