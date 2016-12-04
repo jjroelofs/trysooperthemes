@@ -57,13 +57,6 @@
         <link rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css">
         <link rel="stylesheet" href="//cdn.jsdelivr.net/animatecss/3.5.1/animate.min.css">
         <!-- <link rel="stylesheet" href="http://glazed-demo.sooperthemes.com/profiles/cms/themes/glazed/css/glazed.css"> -->
-        <style>
-            body {
-              background: #eee;
-              padding-top: 5%;
-              /*padding-bottom: 20px;*/
-            }
-        </style>
         <link rel="stylesheet" href="css/main.css">
 
         <!--[if lt IE 9]>
@@ -76,20 +69,13 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-sm-offset-3 jumbotron animated fadeInUp">
+          <div class="col-sm-6 col-sm-offset-3 formbox jumbotron">
               <div class="row">
-                  <div class="col-sm-4">
-                    <a href="http://www.sooperthemes.com/"><img src="img/Sooperthemes-web-1140.png"></a>
-                  </div>
-                  <div class="col-sm-4">
-                    <a href="http://www.sooperthemes.com/"><img src="img/Glazed-logo-web-1140.png"></a>
-                  </div>
-                  <div class="col-sm-4">
-                    <a href="http://www.sooperthemes.com/"><img src="img/carbide-builder-logo-3-web.png"></a>
+                  <div class="col-sm-4 col-sm-offset-4">
+                    <a href="http://www.sooperthemes.com/"><img src="img/Sooperthemes-2016.png"></a>
                   </div>
               </div>
             <h2 class="text-center">Get In The Driver Seat</h2>
-            <h3>Try our Glazed theme and Carbide Drag and Drop Builder!</h3>
             <p>For security reasons your admin demo will be limited to your IP address. Enter your email to start your demo!</p>
             <noscript><p>This demo requires Javascript, please enable Javascrpit in your browser!</p></noscript>
             <div class="wrap-form clearfix">
@@ -97,7 +83,7 @@
                 <div class="form-group">
                   <input type="text" placeholder="Email" class="form-control" name="email" value="<?php print $email; ?>">
                 </div>
-                <input type="submit" class="btn btn-success" name="sooperthemes_submit" value="Start private admin Demo">
+                <input type="submit" class="btn btn-success" name="sooperthemes_submit" value="Start Glazed Demo">
                 <input type="text" placeholder="url" class="form-control" name="sooperthemes_url" value="">
               </form>
             </div>
